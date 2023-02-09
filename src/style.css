@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  outline: 0;
+  text-decoration: none;
+  margin: 0;
+  box-sizing: border-box;
+}
+/*Variables*/
+:root {
+  --color-bg: #09011d;
+  --color-bg-variant: #59a2fe;
+  --color-text: #fff;
+}
+body {
+  background: var(--color-bg);
+}
